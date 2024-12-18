@@ -37,12 +37,12 @@ function page() {
         >
           Senior
         </Link>
-        <Link
+        {/* <Link
           href={"/score-board/junior"}
           className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md "
         >
           Junior
-        </Link>
+        </Link> */}
         <Link
           href={"/score-board/sub-junior"}
           className="py-1 bg-yellow border-yellow hover:bg-yellower border-2 px-2 rounded-md "

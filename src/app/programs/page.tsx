@@ -13,6 +13,10 @@ const page = ({ params, searchParams }: any) => {
                 prg.code.toLowerCase().includes(search.toLowerCase()) ||
                 prg.name.toLowerCase().includes(search.toLowerCase())
             )
+            .filter(
+              (prg) =>
+                prg.cat !== "J"
+            )
             .slice(0, 75) as any
         }
       />

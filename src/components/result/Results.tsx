@@ -5,8 +5,8 @@ import ProgramsList from "./ProgramsList";
 interface Props {
   topTeams: any;
   programs: any;
-  topJunior: any;
   topSenior: any;
+  topJunior:any
   topSuperSenior: any;
   topSubJunior: any;
   topGeneral: any;
@@ -78,7 +78,7 @@ const Results = (props: Props) => {
             )}
           </div>
         </div>
-
+{/* 
         <div className="w-full lg:w-[30%]">
           <p className="font-bold text-xl text-center">Junior Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
@@ -101,7 +101,7 @@ const Results = (props: Props) => {
                 </>
             )}
           </div>
-        </div>
+        </div> */}
 
       </div>
 

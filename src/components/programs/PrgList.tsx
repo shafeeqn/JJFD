@@ -14,7 +14,12 @@ const PrgList = (props: Props) => {
 
         <h1 className="font-bold mt-2 border-y-2 mb-4 border-black">
           {props.program?.code} - {props?.program?.name} - (
-          {props.program?.cat == "J" ? "Junior" : "Senior"})
+          {props.program?.cat == "J" ? "Junior"
+            : props.program?.cat == "S" ? "Senior"
+              : props.program?.cat == "SJ" ? 'Sub Junior'
+                : props.program?.cat == "SS" ? 'Super Senior'
+                  : "General"
+          })
         </h1>
       </div>
 

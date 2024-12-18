@@ -111,7 +111,7 @@ const Institution = (props: Props) => {
                     >
                       Senior
                     </button>
-                    <button
+                    {/* <button
                       onClick={() => {
                         router.push(
                           `/institutions?category=junior&institution=${instn.name}`
@@ -120,7 +120,7 @@ const Institution = (props: Props) => {
                       className="px-2 py-1 text-sm bg-primary hover:bg-primary rounded-lg text-white font-semibold"
                     >
                       Junior
-                    </button>
+                    </button> */}
                     <button
                       onClick={() => {
                         router.push(

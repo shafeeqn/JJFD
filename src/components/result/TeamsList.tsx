@@ -66,11 +66,11 @@ function TeamsList(props: Props) {
                       </span>
                     </p>
 
-                    <p>
+                    {/* <p>
                       <span className="bg-yellow px-2 rounded-full">
                         Junior : {team.juniorPoints}
                       </span>
-                    </p>
+                    </p> */}
 
                     <p>
                       <span className="bg-yellow px-2 rounded-full">

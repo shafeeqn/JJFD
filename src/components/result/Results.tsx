@@ -31,7 +31,7 @@ const Results = (props: Props) => {
       <div>
 
       <div className="flex flex-col lg:flex-row mt-60 lg:mt-8 w-screen ">
-        <div className="w-full lg:w-[30%]">
+        <div className="w-full lg:w-[50%]">
           <p className="font-bold text-xl text-center">General Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
             {props.topGeneral?.length > 0 ? (
@@ -55,7 +55,7 @@ const Results = (props: Props) => {
           </div>
         </div>
 
-        <div className="w-full lg:w-[30%]">
+        <div className="w-full lg:w-[50%]">
           <p className="font-bold text-xl text-center">Senior Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
             {props.topSenior?.length > 0 ? (
@@ -111,7 +111,7 @@ const Results = (props: Props) => {
 
       <div className="flex flex-col lg:flex-row mt-60 lg:mt-8">
 
-        <div className="w-full lg:w-[40%]">
+        <div className="w-full lg:w-[50%]">
           <p className="font-bold text-xl text-center">Super Senior Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
             {props.topSuperSenior?.length > 0 ? (
@@ -135,7 +135,7 @@ const Results = (props: Props) => {
           </div>
         </div>
 
-        <div className="w-full lg:w-[40%]">
+        <div className="w-full lg:w-[50%]">
           <p className="font-bold text-xl text-center">Sub Junior Toppers</p>
           <div className="flex flex-wrap p-3  gap-2">
             {props.topSubJunior?.length > 0 ? (

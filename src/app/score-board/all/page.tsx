@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react';
 import CategoryResult from "@/components/CategoryResult";
 
-const categories = ["G", "SJ", "J", "S", "SS"];
+const categories = ["G", "SJ", "S", "SS"];
 
 const Page = () => {
   const [currentCategory, setCurrentCategory] = useState(categories[0]);

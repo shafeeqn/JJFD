@@ -3309,15 +3309,21 @@
  },
  {
   "code": 4125,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4178,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4227,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4274,
@@ -3325,7 +3331,10 @@
  },
  {
   "code": 4335,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 4387,
@@ -3337,11 +3346,17 @@
  },
  {
   "code": 4638,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 4675,
-  "prg": "82SS"
+  "prg": "82SS",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 1,

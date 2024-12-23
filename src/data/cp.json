@@ -3171,35 +3171,54 @@
  },
  {
   "code": 4132,
-  "prg": "81SS"
+  "prg": "81SS",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 4186,
-  "prg": "81SS"
+  "prg": "81SS",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 4223,
-  "prg": "81SS"
+  "prg": "81SS",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 4276,
-  "prg": "81SS"
+  "prg": "81SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4331,
-  "prg": "81SS"
+  "prg": "81SS",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 4367,
-  "prg": "81SS"
+  "prg": "81SS",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 4634,
-  "prg": "81SS"
+  "prg": "81SS",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 4679,
-  "prg": "81SS"
+  "prg": "81SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4125,
@@ -3734,34 +3753,53 @@
  },
  {
   "code": 1,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 2,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 3,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 5,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "A",
+  "pts": 13,
+  "position": 2
  },
  {
   "code": 6,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "B",
+  "pts": 9,
+  "position": 3
  },
  {
   "code": 9,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "A",
+  "pts": 15,
+  "position": 1
  },
  {
   "code": 12,
-  "prg": "92G"
+  "prg": "92G",
+  "grade": "B",
+  "pts": 3
  }
 ]

@@ -3128,7 +3128,10 @@
  },
  {
   "code": 4115,
-  "prg": "79SS"
+  "prg": "79SS",
+  "grade": "B",
+  "pts": 4,
+  "position": 3
  },
  {
   "code": 4178,
@@ -3140,7 +3143,9 @@
  },
  {
   "code": 4264,
-  "prg": "79SS"
+  "prg": "79SS",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 4318,
@@ -3148,11 +3153,17 @@
  },
  {
   "code": 4376,
-  "prg": "79SS"
+  "prg": "79SS",
+  "grade": "B",
+  "pts": 6,
+  "position": 2
  },
  {
   "code": 4636,
-  "prg": "79SS"
+  "prg": "79SS",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 4685,

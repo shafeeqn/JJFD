@@ -608,27 +608,40 @@
  },
  {
   "code": 4103,
-  "prg": "11SJ"
+  "prg": "11SJ",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4153,
-  "prg": "11SJ"
+  "prg": "11SJ",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4203,
-  "prg": "11SJ"
+  "prg": "11SJ",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4253,
-  "prg": "11SJ"
+  "prg": "11SJ",
+  "grade": "A",
+  "pts": 5
  },
  {
   "code": 4302,
-  "prg": "11SJ"
+  "prg": "11SJ",
+  "grade": "A",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 4353,
-  "prg": "11SJ"
+  "prg": "11SJ",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4403,
@@ -640,19 +653,29 @@
  },
  {
   "code": 4503,
-  "prg": "11SJ"
+  "prg": "11SJ",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4553,
-  "prg": "11SJ"
+  "prg": "11SJ",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 4603,
-  "prg": "11SJ"
+  "prg": "11SJ",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 4653,
-  "prg": "11SJ"
+  "prg": "11SJ",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4104,
@@ -1734,11 +1757,16 @@
  },
  {
   "code": 4216,
-  "prg": "54S"
+  "prg": "54S",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 4270,
-  "prg": "54S"
+  "prg": "54S",
+  "grade": "B",
+  "pts": 6,
+  "position": 2
  },
  {
   "code": 4326,
@@ -1746,15 +1774,23 @@
  },
  {
   "code": 4371,
-  "prg": "54S"
+  "prg": "54S",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 4616,
-  "prg": "54S"
+  "prg": "54S",
+  "grade": "C",
+  "pts": 1
  },
  {
   "code": 4666,
-  "prg": "54S"
+  "prg": "54S",
+  "grade": "C",
+  "pts": 2,
+  "position": 3
  },
  {
   "code": 4120,
@@ -2573,39 +2609,60 @@
  },
  {
   "code": 4127,
-  "prg": "73SS"
+  "prg": "73SS",
+  "grade": "A",
+  "pts": 8,
+  "position": 2
  },
  {
   "code": 4177,
-  "prg": "73SS"
+  "prg": "73SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4222,
-  "prg": "73SS"
+  "prg": "73SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4281,
-  "prg": "73SS"
+  "prg": "73SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4329,
-  "prg": "73SS"
+  "prg": "73SS",
+  "grade": "B",
+  "pts": 6,
+  "position": 3
  },
  {
   "code": 4385,
-  "prg": "73SS"
+  "prg": "73SS",
+  "grade": "A",
+  "pts": 10,
+  "position": 1
  },
  {
   "code": 4520,
-  "prg": "73SS"
+  "prg": "73SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4628,
-  "prg": "73SS"
+  "prg": "73SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4682,
-  "prg": "73SS"
+  "prg": "73SS",
+  "grade": "B",
+  "pts": 3
  },
  {
   "code": 4131,
